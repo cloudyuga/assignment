@@ -23,7 +23,7 @@ http://localhost:5000/
 * [Setup/Installation/Chapter-One]()
 * [Setup/Configuration/Chapter-One]()  
 
-Note: The hyperlinks used here are for demo purpose only; they are not functional. Also, images directory needs to be omitted since they do not contain any MD files
+Note: The hyperlinks used here are for demo purpose only; they are not functional. Also, omit README.md file. images directory needs to be omitted as well since they do not contain any MD files
   
 Let's say we click on [Introduction/Chapter-One]()  
 Server needs to route to http://localhost:5000/Introduction/Chapter-One, where the result on your webpage is HTML equivalent of the parsed MD file
