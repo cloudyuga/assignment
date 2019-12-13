@@ -7,12 +7,12 @@
 * Clicking on any of them, server routes to a different page where the parsed MD file is displayed in HTML format
 
 ### Example
-We have the directory structure as  
-Introduction/Chapter-One.md  
-Introduction/Chapter-Two.md  
-Setup/Installation/Chapter-One.md  
-Setup/Configuration/Chapter-One.md  
-images/
+We have the directory structure as
+* Introduction/Chapter-One.md
+* Introduction/Chapter-Two.md
+* Setup/Installation/Chapter-One.md
+* Setup/Configuration/Chapter-One.md
+* images/
   
 Let's assume your server runs on port 5000.  
 The index page of your server needs to be accessible in your web browser as mentioned below -  
