@@ -1,2 +1,2 @@
-*This is italic*
+*This is italic*  
 **This is bold**
