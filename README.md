@@ -13,7 +13,7 @@ We have the directory structure as
 * Setup/Installation/Chapter-One.md
 * Setup/Configuration/Chapter-One.md
 * images/  
-README.md
+* README.md
   
 Let's assume your server runs on port 5000.  
 The index page of your server needs to be accessible in your web browser as mentioned below -  
