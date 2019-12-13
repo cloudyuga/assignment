@@ -12,7 +12,7 @@ We have the directory structure as
 * Introduction/Chapter-Two.md
 * Setup/Installation/Chapter-One.md
 * Setup/Configuration/Chapter-One.md
-* images/
+* images/  
 README.md
   
 Let's assume your server runs on port 5000.  
