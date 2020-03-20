@@ -10,8 +10,8 @@
 We have the directory structure as
 * Introduction/Chapter-One.md
 * Introduction/Chapter-Two.md
-* Setup/Installation/Chapter-One.md
-* Setup/Configuration/Chapter-Two.md
+* Setup/Chapter-One.md
+* Setup/Chapter-Two.md
 * images/  
 * README.md
   
