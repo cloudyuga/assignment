@@ -11,7 +11,7 @@ We have the directory structure as
 * Introduction/Chapter-One.md
 * Introduction/Chapter-Two.md
 * Setup/Installation/Chapter-One.md
-* Setup/Configuration/Chapter-One.md
+* Setup/Configuration/Chapter-Two.md
 * images/  
 * README.md
   
@@ -21,8 +21,8 @@ The index page of your server needs to be accessible in your web browser as ment
 http://localhost:5000/
 * [Introduction/Chapter-One]()
 * [Introduction/Chapter-Two]()
-* [Setup/Installation/Chapter-One]()
-* [Setup/Configuration/Chapter-One]()  
+* [Setup/Chapter-One]()
+* [Setup/Chapter-One]()  
 
 Note: The hyperlinks used here are for demo purpose only; they are not functional. Also, omit README.md file. images directory needs to be omitted as well since they do not contain any MD files
   
